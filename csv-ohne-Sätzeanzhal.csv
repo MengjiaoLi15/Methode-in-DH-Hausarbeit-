@@ -1,0 +1,168 @@
+Source,Type,Target,Weight
+A Messenger,Undirected,Ada Mason,1
+A Messenger,Undirected,Poirot,1
+A Messenger,Undirected,Van Aldin,1
+Ada Mason,Undirected,Catherine,1
+Ada Mason,Undirected,Derek Kettering,1
+Ada Mason,Undirected,M.Carrege,1
+Ada Mason,Undirected,M.Caux,1
+Ada Mason,Undirected,Poirot,3
+Ada Mason,Undirected,Ruth Kettering,1
+Ada Mason,Undirected,Van Aldin,2
+Boris Ivannovitch,Undirected,Olga Demiroff,1
+Boris Ivannovitch,Undirected,Van Aldin,1
+Catherine,Undirected,Chubby,4
+Catherine,Undirected,Cook's clerk,1
+Catherine,Undirected,Derek Kettering,7
+Catherine,Undirected,Dr.Harrison,1
+Catherine,Undirected,Dr.Harrison's wife,1
+Catherine,Undirected,French lady mode,1
+Catherine,Undirected,Hippolyte,1
+Catherine,Undirected,Knighton,6
+Catherine,Undirected,Lady Tamplin,4
+Catherine,Undirected,Lawyer,1
+Catherine,Undirected,Lenox,6
+Catherine,Undirected,M.Papopolous,2
+Catherine,Undirected,Marie Flavelle,1
+Catherine,Undirected,Mirelle,4
+Catherine,Undirected,Miss Viner,2
+Catherine,Undirected,Pavett,1
+Catherine,Undirected,Poirot,8
+Catherine,Undirected,Ruth Kettering,1
+Catherine,Undirected,Van Aldin,3
+Catherine,Undirected,Zia,1
+Catherine,Undirected,an American woman,1
+Catherine,Undirected,french reciever,1
+Catherine,Undirected,police personage,1
+Catherine,Undirected,servant Alice,1
+Catherine,Undirected,the conductor,1
+Chasseur,Undirected,M.Papopolous,1
+Chasseur,Undirected,Poirot,1
+Chasseur,Undirected,Zia,1
+Chubby,Undirected,Derek Kettering,1
+Chubby,Undirected,French lady mode,1
+Chubby,Undirected,Knighton,1
+Chubby,Undirected,Lady Tamplin,2
+Chubby,Undirected,Lawyer,1
+Chubby,Undirected,Lenox,3
+Chubby,Undirected,Poirot,2
+Chubby,Undirected,Van Aldin,1
+Chubby,Undirected,an American woman,1
+Chubby,Undirected,police personage,1
+Chubby,Undirected,the conductor,1
+Cook's clerk,Undirected,Derek Kettering,1
+Cook's clerk,Undirected,Knighton,1
+Cook's clerk,Undirected,Pavett,1
+Derek Kettering,Undirected,Georges,2
+Derek Kettering,Undirected,Knighton,5
+Derek Kettering,Undirected,Lady Tamplin,3
+Derek Kettering,Undirected,Le Comte,2
+Derek Kettering,Undirected,Lenox,2
+Derek Kettering,Undirected,M.Carrege,1
+Derek Kettering,Undirected,M.Caux,1
+Derek Kettering,Undirected,M.Papopolous,1
+Derek Kettering,Undirected,Mirelle,4
+Derek Kettering,Undirected,Mr.Goby,1
+Derek Kettering,Undirected,Pavett,1
+Derek Kettering,Undirected,Poirot,5
+Derek Kettering,Undirected,Ruth Kettering,2
+Derek Kettering,Undirected,Van Aldin,3
+Derek Kettering,Undirected,an American woman,1
+Derek Kettering,Undirected,french reciever,1
+Dr.Harrison's wife,Undirected,Miss Viner,1
+Dr.Harrison's wife,Undirected,servant Alice,1
+Dr.Harrison,Undirected,Dr.Harrison's wife,1
+Dr.Harrison,Undirected,Miss Viner,1
+Dr.Harrison,Undirected,servant Alice,1
+French lady mode,Undirected,Lady Tamplin,1
+French lady mode,Undirected,Lawyer,1
+French lady mode,Undirected,Lenox,1
+Georges,Undirected,Knighton,1
+Georges,Undirected,Le Comte,1
+Georges,Undirected,M.Carrege,1
+Georges,Undirected,M.Caux,1
+Georges,Undirected,Mirelle,1
+Georges,Undirected,Poirot,2
+Georges,Undirected,Van Aldin,1
+Hippolyte,Undirected,Knighton,1
+Hippolyte,Undirected,Le Comte,1
+Hippolyte,Undirected,Lenox,1
+Hippolyte,Undirected,Marie Flavelle,1
+Hippolyte,Undirected,Mirelle,2
+Hippolyte,Undirected,Poirot,1
+Hippolyte,Undirected,Van Aldin,1
+Knighton,Undirected,Lady Tamplin,2
+Knighton,Undirected,Lenox,3
+Knighton,Undirected,M.Carrege,1
+Knighton,Undirected,M.Caux,1
+Knighton,Undirected,M.Papopolous,2
+Knighton,Undirected,Marie Flavelle,1
+Knighton,Undirected,Mirelle,3
+Knighton,Undirected,Miss Viner,1
+Knighton,Undirected,Mr.Goby,2
+Knighton,Undirected,Pavett,1
+Knighton,Undirected,Poirot,7
+Knighton,Undirected,Ruth Kettering,2
+Knighton,Undirected,Van Aldin,9
+Knighton,Undirected,Zia,1
+Knighton,Undirected,desk clerk,1
+Knighton,Undirected,man-servant,1
+Knighton,Undirected,page boy,1
+Knighton,Undirected,passers-by,1
+Lady Tamplin,Undirected,Lawyer,1
+Lady Tamplin,Undirected,Lenox,3
+Lady Tamplin,Undirected,M.Papopolous,1
+Lady Tamplin,Undirected,Poirot,2
+Lady Tamplin,Undirected,Van Aldin,1
+Lady Tamplin,Undirected,an American woman,1
+Lawyer,Undirected,Lenox,1
+Le Comte,Undirected,M.Carrege,1
+Le Comte,Undirected,M.Caux,1
+Le Comte,Undirected,Mirelle,2
+Le Comte,Undirected,Poirot,1
+Lenox,Undirected,M.Papopolous,2
+Lenox,Undirected,Marie Flavelle,1
+Lenox,Undirected,Mirelle,2
+Lenox,Undirected,Poirot,5
+Lenox,Undirected,Van Aldin,3
+Lenox,Undirected,Zia,1
+Lenox,Undirected,an American woman,1
+M.Carrege,Undirected,M.Caux,4
+M.Carrege,Undirected,Mirelle,1
+M.Carrege,Undirected,Poirot,4
+M.Carrege,Undirected,Van Aldin,2
+M.Caux,Undirected,Mirelle,1
+M.Caux,Undirected,Poirot,5
+M.Caux,Undirected,Van Aldin,3
+M.Papopolous,Undirected,Mirelle,1
+M.Papopolous,Undirected,Poirot,4
+M.Papopolous,Undirected,Van Aldin,2
+M.Papopolous,Undirected,Zia,4
+M.Papopolous,Undirected,man-servant,1
+M.Papopolous,Undirected,passers-by,1
+Marie Flavelle,Undirected,Mirelle,1
+Marie Flavelle,Undirected,Poirot,1
+Marie Flavelle,Undirected,Van Aldin,1
+Mirelle,Undirected,Poirot,4
+Mirelle,Undirected,Van Aldin,2
+Mirelle,Undirected,Zia,1
+Mirelle,Undirected,french reciever,1
+Miss Viner,Undirected,servant Alice,1
+Mr.Goby,Undirected,Ruth Kettering,1
+Mr.Goby,Undirected,Van Aldin,2
+Mr.Goby,Undirected,page boy,1
+Mr.Joseph Aarons,Undirected,Poirot,1
+Olga Demiroff,Undirected,Van Aldin,1
+Poirot,Undirected,Ruth Kettering,1
+Poirot,Undirected,Van Aldin,10
+Poirot,Undirected,Zia,3
+Poirot,Undirected,police personage,1
+Poirot,Undirected,the conductor,1
+Ruth Kettering,Undirected,Van Aldin,2
+Van Aldin,Undirected,Zia,1
+Van Aldin,Undirected,desk clerk,1
+Van Aldin,Undirected,page boy,1
+Zia,Undirected,man-servant,1
+Zia,Undirected,passers-by,1
+man-servant,Undirected,passers-by,1
+police personage,Undirected,the conductor,1
